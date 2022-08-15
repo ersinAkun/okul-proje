@@ -1,0 +1,16 @@
+
+
+
+                    YILDIZ KOLEJI
+                      ANA MENU
+
+                1-Okul Bilgileri Goruntule
+                2-Ogretmen Menu
+                3-Ogrenci Menu
+                Q-Cikis
+
+         Okul bilgileri okul class'inda tutulacak ve constant(degistirilemez ) olmalidir
+
+         Okul bilgilerine proje icerisinden her class'dan ulasilabilmelidir
+
+         Okul Class' i SINGLETON PATTERN'e sahip olmalidir (Obje olusturulmasina izin vermemelidir)
